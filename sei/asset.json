@@ -475,6 +475,13 @@
     "type": "cw20"
   },
   {
+    "id": "sei1lcednpa7av73u8sdjkt2m5sxuugxsuswfnwswxrntysejen43wsqt4ek85",
+    "name": "Super Seiyan",
+    "symbol": "SEIYAN",
+    "decimals": "6",
+    "type": "cw20"
+  },
+  {
     "id": "sei1llssur0kq6nzpsle7m4r2fnumxzgjwmgt0ztn9kd7668yasdjynsx69ure",
     "name": "Super Seiyan",
     "symbol": "SEIYAN",
